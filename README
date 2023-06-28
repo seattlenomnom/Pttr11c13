@@ -1,0 +1,10 @@
+/* Readme for ptr11c13.                                                  *
+*  Ptr11c13 is a demo program to illustrate the use of pointers in       *
+*  implementing a copy string function.                                  *
+*                                                                        *
+*  Two arrays, the text to copy and an empty buffer that will receive.   *
+*                                                                        *
+*  Interesting point, pointers are used to represent the arrays,         *
+*  and the pointers are incremented in parallel to effect the transfer.  *
+*                                                                        *
+*/
